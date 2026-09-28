@@ -81,6 +81,8 @@ Targeting improvements
 Efficiency improvements
 🛠️ Tech Stack
 n8n — Workflow automation
+## 📸 n8n Workflow
+![n8n Workflow](Screenshot%202026-09-28%20180125.jpg)
 Google Sheets — Campaign data & report storage
 Google Gemini AI — AI-powered campaign analysis
 JavaScript — Data processing and metric analysis
